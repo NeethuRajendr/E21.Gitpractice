@@ -4,7 +4,7 @@ public class Sample {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Sample Project created for updating in Github");
+		System.out.println("Sample class created for updating in Github");
 
 	}
 
